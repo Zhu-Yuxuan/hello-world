@@ -91,6 +91,12 @@ Getting started is the hardest part. If there’s anything you’d like to know 
 
 test
 
+<<<<<<< HEAD
 test-branch
 
 test-merge
+=======
+test return 2
+
+test_merge_app
+>>>>>>> master
